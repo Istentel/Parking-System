@@ -12,3 +12,5 @@ There are three types of parking zones:
   1. Blue - price is 0 from 8:00 PM to 8:00 AM (first zone)
   2. Purple - price increase with 1.5 from 12:00 PM to 6:00 PM (second zone)
   3. Orange - price is double from 2:00 PM to 8:00 PM (third zone)
+
+![](image/parking_system.png)
